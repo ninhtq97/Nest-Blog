@@ -1,0 +1,13 @@
+const DATABASE_HOST = 'localhost';
+const DATABASE_PORT = '3306';
+const DATABASE_USERNAME = 'mSql';
+const DATABASE_PASSWORD = 'mSql2020';
+const DATABASE_NAME = 'nest_blog';
+
+export {
+  DATABASE_HOST,
+  DATABASE_PORT,
+  DATABASE_USERNAME,
+  DATABASE_PASSWORD,
+  DATABASE_NAME,
+};
